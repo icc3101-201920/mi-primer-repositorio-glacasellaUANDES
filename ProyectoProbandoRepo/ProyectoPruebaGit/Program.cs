@@ -10,8 +10,8 @@ namespace ProyectoPruebaGit
             Console.WriteLine("Esta es la segunda linea ");
             Console.WriteLine("Esta linea la escribi en el branch prueba");
             Console.WriteLine("Otra linea que agregue estando en el branch pruebaa");
-            string miString = "Hola";
-
+            string miString = "Holaaaaaaaa";
+            Console.WriteLine(miString);
         }
     }
 }
